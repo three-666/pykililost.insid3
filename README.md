@@ -1,1 +1,2 @@
-# pykililost.insid3
+# Курс по программированию на Python
+DEFEND METALCORE
